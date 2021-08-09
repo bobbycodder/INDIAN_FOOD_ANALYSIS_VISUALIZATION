@@ -43,6 +43,6 @@ __This dataset consists of information about various Indian dishes, their ingred
 
 # Conclusion
 
-Hope you liked my project on INDIAN_FOOD Data analysis and Visualization using Python.
+
 
 ***Just follow along Jupyter Notebook for more!!***
